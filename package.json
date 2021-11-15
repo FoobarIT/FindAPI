@@ -5,7 +5,7 @@
   "dependencies": {
     "@blueprintjs/core": "^3.15.0",
     "@blueprintjs/datetime": "^3.8.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.2",
     "boxicons": "^2.0.9",
     "normalize.css": "^8.0.1",
     "react": "^16.8.6",
