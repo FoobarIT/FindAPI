@@ -1,5 +1,6 @@
 
 import "@blueprintjs/datetime/lib/css/blueprint-datetime.css";
+import "boxicons"
 import React, { Component } from "react";
 import "./App.css";
 import Header from "./components/Header"
